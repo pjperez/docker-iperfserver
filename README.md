@@ -4,6 +4,7 @@ Docker image that connects to Wormhole's overlay network and starts and iPerf se
 ## Building docker-iperfserver
     
     git clone https://github.com/pjperez/docker-iperfserver
+    cd docker-iperfserver
     sudo docker build -t wormhole/docker-iperfserver .
 
 ## Running docker-iperfserver
