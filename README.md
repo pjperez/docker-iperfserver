@@ -15,4 +15,4 @@ Download your config (.vpn) and linuxconfig files from your dashboard at [Wormho
     
 ## More info
 
-Read [docker-wormhole](https://github.com/pjperez/docker-wormhole) if you're not familiar with Wormhole's Docker image.
+Read [docker-wormhole](https://github.com/pjperez/docker-wormhole) if you're not familiar with [Wormhole](https://wormhole.network)'s Docker image.
